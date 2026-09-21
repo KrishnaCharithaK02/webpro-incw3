@@ -23,7 +23,7 @@ img {
     position: absolute;
     top: 120px;
     left: 250px;
-    z-index: 1;
+    z-index: 10;
 }
 
 .heart {
@@ -33,7 +33,7 @@ img {
     position: absolute;
     top: 165px;
     left: 290px;
-    z-index: 1;
+    z-index: 10;
 }
 
 .last {
@@ -41,7 +41,7 @@ img {
     position: absolute;
     top: 255px;
     left: 245px;
-    z-index: 1;
+    z-index: 10;
 }
 
 .container {
