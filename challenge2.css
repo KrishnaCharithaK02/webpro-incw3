@@ -1,0 +1,50 @@
+div {
+    position: relative;
+    background-color: #f0f0f0;
+    display: inline-block;
+}
+img {
+    /* Your code goes here */
+    position: relative;
+    left: 10px;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 20px;
+    box-shadow: 5px 5px 10px gray;
+}
+
+.words {
+    font-family: impact;
+    font-size: 60px;
+}
+
+.first {
+    /* Your code goes here */
+    position: absolute;
+    top: 120px;
+    left: 250px;
+    z-index: 1;
+}
+
+.heart {
+    color: red;
+    font-size: 80px;
+    /* Your code goes here */
+    position: absolute;
+    top: 165px;
+    left: 290px;
+    z-index: 1;
+}
+
+.last {
+    /* Your code goes here */
+    position: absolute;
+    top: 255px;
+    left: 245px;
+    z-index: 1;
+}
+
+.container {
+    position: relative;
+    display: inline-block;
+}
